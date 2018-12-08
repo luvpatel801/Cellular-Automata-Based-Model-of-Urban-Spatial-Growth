@@ -1,0 +1,9 @@
+-> Open Matlab.
+
+-> Set current directory as this directory.
+
+-> Run a Main_code.m.
+
+-> If you want to change the input image than add that image in this folder in .jpg format and change it's name in code (12th line of Main_code.m).
+
+-> If you want to experiment more with various factors than open 'Other Codes' folder in matlab. Their names and working is self explanatory.
